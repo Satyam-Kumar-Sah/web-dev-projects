@@ -48,3 +48,6 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 
 
 Happy Coding! 😊
+
+
+//can add more animations
